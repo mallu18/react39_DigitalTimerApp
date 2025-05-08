@@ -59,8 +59,8 @@ h1 {
 }
 
 .icon {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   background-color: transparent;
   border: none;
 }
@@ -101,4 +101,12 @@ h1 {
 
 .range {
   font-weight: bold;
+  height: 35px;
+  width: 100px;
+  background: linear-gradient(to right, #cffcf1, #00d9f5);
+  border: none;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
